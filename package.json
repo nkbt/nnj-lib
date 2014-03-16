@@ -8,7 +8,7 @@
 		"email": "nik@butenko.me"
 	},
 	"dependencies": {
-		"shared": "https://github.com/nkbt/sydjs-npm.git#shared"
+		"shared": "nkbt/sydjs-npm#shared"
 	},
 	"scripts": {
 	},
