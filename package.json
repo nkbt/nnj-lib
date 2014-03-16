@@ -1,0 +1,25 @@
+{
+	"name": "lib",
+	"private": true,
+	"description": "Library",
+	"version": "0.0.1",
+	"author": {
+		"name": "Nik Butenko",
+		"email": "nik@butenko.me"
+	},
+	"dependencies": {
+		"shared": "https://github.com/nkbt/sydjs-npm.git#shared"
+	},
+	"scripts": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nkbt/sydjs-npm.git#lib"
+	},
+	"bugs": {
+		"url": "http://github.com/nkbt/sydjs-npm/issues",
+		"email": "nik@butenko.me"
+	},
+	"main": "index",
+	"readmeFilename": "README.md"
+}
