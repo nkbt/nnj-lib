@@ -10,16 +10,6 @@
 	"dependencies": {
 		"shared": "nkbt/sydjs-npm#shared"
 	},
-	"scripts": {
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/nkbt/sydjs-npm.git#lib"
-	},
-	"bugs": {
-		"url": "http://github.com/nkbt/sydjs-npm/issues",
-		"email": "nik@butenko.me"
-	},
 	"main": "index",
 	"readmeFilename": "README.md"
 }
