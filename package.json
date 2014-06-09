@@ -2,7 +2,6 @@
 	"name": "nnj-lib",
 	"private": true,
 	"description": "Library",
-	"version": "0.0.1",
 	"author": {
 		"name": "Nik Butenko",
 		"email": "nik@butenko.me"
