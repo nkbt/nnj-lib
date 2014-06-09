@@ -1,4 +1,4 @@
-var sharedLib = require('shared');
+var sharedLib = require('nnj-shared');
 sharedLib.sayYes(true);
 
 function alwaysYes() {

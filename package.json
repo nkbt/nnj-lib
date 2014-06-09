@@ -1,5 +1,5 @@
 {
-	"name": "lib",
+	"name": "nnj-lib",
 	"private": true,
 	"description": "Library",
 	"version": "0.0.1",
@@ -8,11 +8,11 @@
 		"email": "nik@butenko.me"
 	},
 	"dependencies": {
-		"shared": "nkbt/sydjs-npm#shared"
+		"shared": "nkbt/nnj-shared"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/nkbt/sydjs-npm.git#lib"
+		"url": "https://github.com/nkbt/nnj-lib.git"
 	},
 	"main": "index.js",
 	"readmeFilename": "README.md"
