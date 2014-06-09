@@ -8,7 +8,7 @@
 		"email": "nik@butenko.me"
 	},
 	"dependencies": {
-		"nnj-shared": "nkbt/nnj-shared"
+		"nnj-shared": "git://github.com/nkbt/nnj-shared.git"
 	},
 	"repository": {
 		"type": "git",
